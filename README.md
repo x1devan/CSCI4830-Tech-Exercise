@@ -1,2 +1,2 @@
-# CSCI4830-Term-Project
-Term Project for CSCI-4830
+# CSCI4830-Tech-Exercise
+Tech Exercise for CSCI-4830
